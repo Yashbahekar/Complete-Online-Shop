@@ -37,11 +37,13 @@ along with authorization, authentication and security.
 
 5.Payment using Stripe API:
 
-![Your Cart - Brave 05-07-2023 16_14_02 (2)](https://github.com/Yashbahekar/Complete-Online-Shop/assets/90609297/543cfe5b-0b81-4750-abbe-060be5e4d9ec)
+![Your Cart - Brave 05-07-2023 16_14_02 (2)](https://github.com/Yashbahekar/Complete-Online-Shop/assets/90609297/b41f1381-9660-452c-b582-1e5ea8479078)
+
 
 6.Payment Success:
 
-![Your Cart - Brave 05-07-2023 16_14_15](https://github.com/Yashbahekar/Complete-Online-Shop/assets/90609297/6de6fa4c-fe73-42da-8024-d3d39cc048a0)
+
+![Your Cart - Brave 05-07-2023 16_14_15](https://github.com/Yashbahekar/Complete-Online-Shop/assets/90609297/fc1b8d3e-b74c-4af9-ac87-164e458ff49a)
 
 
 
